@@ -4,3 +4,6 @@
     "main" : "index.js",
     "author" : " Aymen "
 }
+"scripts" : {
+    "starts" : " node index.js "
+}
