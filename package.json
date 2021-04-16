@@ -4,7 +4,7 @@
     "main" : "index.js",
     "author" : " Aymen "
 
-    "scripts": {
+    "scripts" : {
     "start": "node index.js"
     }
 }
