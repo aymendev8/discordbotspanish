@@ -8,7 +8,7 @@ Client.on('ready', async () => {
     console.log('Le bot est en marche');
     Client.user.setStatus('dnd');
     setTimeout(() => {
-        Client.user.setActivity('Viole tout les gang de redside');
+        Client.user.setActivity('Atomise tout les gang de redside');
     }, 100)
     
 
